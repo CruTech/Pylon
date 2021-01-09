@@ -1,0 +1,5 @@
+main: tech.cru.pylon.PylonMain
+name: Pylon
+version: 1.0
+author: Ben Robson
+api-version: 1.16
